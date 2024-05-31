@@ -27,7 +27,7 @@ To run this project, you need to have Python installed on your machine. Follow t
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/caesar-cipher-tool.git
+   git clone [https://github.com/yourusername/caesar-cipher-tool.git](https://github.com/Anandkp21/PRODIGY_CS_TASK_01.git)
    ```
    
 2. **Navigate to the project directory:**
